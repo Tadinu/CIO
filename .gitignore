@@ -3,6 +3,8 @@
 .DS_Store
 __pycache__
 example/output
+example/recordings/
+example/*.TXT
 output/
 CIO.egg-info/
 build/
